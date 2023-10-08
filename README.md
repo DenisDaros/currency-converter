@@ -20,7 +20,7 @@
 
 1. Clone o repositório
 
-	*  Use o comando: `git@github.com:DenisDaros/AmbienteDev.git`
+	*  Use o comando: `git@github.com:DenisDaros/currency-converter.git`
 
 2. Instale as dependências
 
